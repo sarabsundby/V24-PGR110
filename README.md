@@ -1,1 +1,1 @@
-# V24-PGR110
+# Eksamen i Visual analytics - 2024
